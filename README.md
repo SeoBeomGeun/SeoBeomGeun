@@ -24,6 +24,6 @@ I’m a Data Scientist with a strong interest in Machine Learning and AI, always
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeoBeomGeun&show_icons=true&theme=radical)
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeoBeomGeun)
+[![LinkedIn](www.linkedin.com/in/starsbg1828)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:BDBDC8&height=150&section=footer" />
