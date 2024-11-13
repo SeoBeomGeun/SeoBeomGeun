@@ -1,14 +1,10 @@
-## Hi there 👋
+## 👋 Hi there, I'm Seo BeomGeun!
 
-I’m Seo BeomGeun, a passionate Data Scientist with a focus on Machine Learning and AI. I’m currently diving into the field of data analysis to create impactful insights.
+![Banner](https://path_to_your_banner_image)
 
-- 🔭 I’m currently working on AI-based projects for optimizing processes in various industries.
-- 🌱 I’m currently learning advanced data visualization techniques and enhancing my skills in Python.
-- 👯 I’m looking to collaborate on innovative data science projects that bring real-world value.
-- 💬 Ask me about data analysis, machine learning, or my journey in tech!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/SeoBeomGeun)
-- ⚡ Fun fact: I love exploring data to uncover hidden patterns!
+🌈 **Data Scientist** | **Machine Learning Enthusiast** | **Creative Thinker**
 
+---
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
